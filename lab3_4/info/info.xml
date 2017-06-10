@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<air>
+
+
+<AirPassenger capacity="500" weith="700"
+                 fuel = "1000" rang="8000"
+                model ="A300">
+</AirPassenger>
+
+    <AirCargo capacity="560" weith="233"
+                     fuel = "1444" rang="7400"
+                     model ="TU144">
+    </AirCargo>
+
+    <AirMilitary capacity="111" weith="3444"
+                     fuel = "2323" rang="10000"
+                     model ="AN72">
+    </AirMilitary>
+
+</air>

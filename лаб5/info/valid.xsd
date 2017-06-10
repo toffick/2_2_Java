@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="air">
+    <xs:complexType>
+        <xs:sequence>
+                <xs:element name = "airplane" type="airplanestype" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:element>
+
+    <xs:complexType name="airplanestype">
+        <xs:sequence>
+
+                 <xs:element name="capacity" type="xs:positiveInteger"/>
+                 <xs:element name="weith" type="xs:positiveInteger"/>
+                 <xs:element name="fuel" type="xs:positiveInteger"/>
+                 <xs:element name="rang" type="xs:positiveInteger"/>
+                 <xs:element name="model">
+                    <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                    <xs:enumeration value="Boeing747"></xs:enumeration>
+                                    <xs:enumeration value="A300"></xs:enumeration>
+                                    <xs:enumeration value="K3"></xs:enumeration>
+                                    <xs:enumeration value="AN72"></xs:enumeration>
+                                    <xs:enumeration value="TU144"></xs:enumeration>
+                                </xs:restriction>
+                    </xs:simpleType>
+                 </xs:element>
+
+        </xs:sequence>
+        <xs:attribute name="type" use="required">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="AirPassenger"></xs:enumeration>
+                    <xs:enumeration value="AirCargo"></xs:enumeration>
+                    <xs:enumeration value="AirMilitary"></xs:enumeration>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+</xs:schema>
+
+
+
+
+
+
+

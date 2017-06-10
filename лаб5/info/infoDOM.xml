@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='XSLT.xsl'?>
+
+<air>
+
+    <airplane type="AirPassenger">
+        <capacity>344</capacity>
+        <weith>2333</weith>
+        <fuel>500</fuel>
+        <rang>3000</rang>
+        <model>TU144</model>
+    </airplane>
+
+
+    <airplane type = "AirCargo">
+        <capacity>23</capacity>
+        <weith>56</weith>
+        <fuel>70</fuel>
+        <rang>200</rang>
+        <model>K3</model>
+    </airplane>
+
+    <airplane type="AirMilitary">
+        <capacity>111</capacity>
+        <weith>5555</weith>
+        <fuel>2333</fuel>
+        <rang>9800</rang>
+        <model>K3</model>
+    </airplane>
+
+</air>

@@ -1,0 +1,13 @@
+<books>
+    <book>
+        <name>FirstBook</name>
+        <author>FirstAuthor</author>
+        <price>1000</price>
+    </book>
+
+    <book>
+        <name>SecondBook</name>
+        <author>SecondAuthor</author>
+        <price>2000</price>
+    </book>
+</books>

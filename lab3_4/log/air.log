@@ -1,0 +1,28 @@
+{2017-02-23 18:53:02} INFO AirManager.getInstance:  AirManager query
+{2017-02-23 18:53:02} INFO Airplanes.<init>: Airport was created
+{2017-02-23 18:53:02} INFO Airplanes.<init>: AirMilitary was created
+{2017-02-23 18:53:02} INFO Airplanes.<init>: AirPassenger was created
+{2017-02-23 18:53:02} INFO Airplanes.<init>: AirCargo was created
+{2017-02-23 18:53:02} TRACE MainClass.main: 
+	AirMilitary:  capacity = 125, flightrange = 81, fuelconsumption = 10, weight = 92, type = TU144
+	AirPassenger:  capacity = 121, flightrange = 532, fuelconsumption = 61, type = 563
+	AirCargo: capacity = 332, flightrange = 60, fuelconsumption = 278, weight = 20, type = Boeing747
+{2017-02-23 18:53:02} INFO AirManager.sortAirport: Sorting Airport
+{2017-02-23 18:53:02} TRACE MainClass.main: 
+	AirCargo: capacity = 332, flightrange = 60, fuelconsumption = 278, weight = 20, type = Boeing747
+	AirMilitary:  capacity = 125, flightrange = 81, fuelconsumption = 10, weight = 92, type = TU144
+	AirPassenger:  capacity = 121, flightrange = 532, fuelconsumption = 61, type = 563
+{2017-02-23 18:53:02} TRACE MainClass.main: 	AirCargo: capacity = 332, flightrange = 60, fuelconsumption = 278, weight = 20, type = Boeing747
+{2017-02-23 18:53:02} TRACE MainClass.main: 332
+{2017-02-23 18:53:02} TRACE MainClass.main: 121
+{2017-02-23 18:53:02} INFO Airplanes.<init>: Airport was created
+{2017-02-23 18:53:02} INFO Airplanes.<init>: AirPassenger was created
+{2017-02-23 18:53:02} INFO Airplanes.<init>: AirCargo was created
+{2017-02-23 18:53:02} INFO Airplanes.<init>: AirMilitary was created
+{2017-02-23 18:53:02} INFO Airplanes.<init>: AirCargo was created
+{2017-02-23 18:53:02} TRACE MainClass.main: 
+	AirPassenger:  capacity = 500, flightrange = 8000, fuelconsumption = 1000, type = 700
+	AirCargo: capacity = 560, flightrange = 7400, fuelconsumption = 1444, weight = 233, type = None
+	AirMilitary:  capacity = 111, flightrange = 10000, fuelconsumption = 2323, weight = 3444, type = None
+	AirCargo: capacity = 0, flightrange = 0, fuelconsumption = 0, weight = 0, type = None
+{2017-02-23 18:53:02} INFO MainClass.main: Program finalized

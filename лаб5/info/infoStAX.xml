@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<air>
+
+    <airplane type="AirPassenger">
+        <capacity>555</capacity>
+        <weith>6523</weith>
+        <fuel>4545</fuel>
+        <rang>45687</rang>
+        <model>A300</model>
+    </airplane>
+
+
+    <airplane type = "AirCargo">
+        <capacity>543453</capacity>
+        <weith>453453</weith>
+        <fuel>4535</fuel>
+        <rang>45345</rang>
+        <model>K3</model>
+    </airplane>
+
+    <airplane type="AirMilitary">
+        <capacity>896</capacity>
+        <weith>453</weith>
+        <fuel>477</fuel>
+        <rang>3223</rang>
+        <model>Boeing747</model>
+    </airplane>
+
+</air>

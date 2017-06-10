@@ -1,0 +1,20 @@
+2017-03-16 10:06:40 INFO  AirManager:25 -  AirManager query
+2017-03-16 10:06:40 INFO  ValidatorSAX:33 - info/info.xml is valid 
+2017-03-16 10:06:40 INFO  Airplanes:24 - Airport was created
+2017-03-16 10:06:40 INFO  Airplanes:16 - AirPassenger was created
+2017-03-16 10:06:40 INFO  Airplanes:14 - AirCargo was created
+2017-03-16 10:06:40 INFO  Airplanes:17 - AirMilitary was created
+2017-03-16 10:06:40 INFO  ValidatorSAX:33 - info/infoDOM.xml is valid 
+2017-03-16 10:06:40 INFO  Airplanes:24 - Airport was created
+2017-03-16 10:06:40 INFO  Airplanes:16 - AirPassenger was created
+2017-03-16 10:06:40 INFO  Airplanes:14 - AirCargo was created
+2017-03-16 10:06:40 INFO  Airplanes:17 - AirMilitary was created
+2017-03-16 10:06:40 INFO  ValidatorSAX:33 - info/infoStAX.xml is valid 
+2017-03-16 10:06:40 INFO  Airplanes:24 - Airport was created
+2017-03-16 10:06:40 INFO  Airplanes:16 - AirPassenger was created
+2017-03-16 10:06:40 INFO  Airplanes:14 - AirCargo was created
+2017-03-16 10:06:40 INFO  Airplanes:17 - AirMilitary was created
+2017-03-16 10:06:41 INFO  Airplanes:25 - AirCargo was created
+2017-03-16 10:09:09 INFO  Airplanes:25 - AirCargo was created
+2017-03-16 10:09:09 INFO  Airplanes:14 - AirCargo was created
+2017-03-16 10:09:09 INFO  MainClass:79 - Program finalized

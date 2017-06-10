@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<air>
+
+    <airplane type="AirPassenger">
+        <capacity>500</capacity>
+        <weith>700</weith>
+        <fuel>1000</fuel>
+        <rang>80050</rang>
+        <model>A300</model>
+    </airplane>
+
+
+    <airplane type = "AirCargo">
+        <capacity>560</capacity>
+        <weith>233</weith>
+        <fuel>1444</fuel>
+        <rang>7400</rang>
+        <model>TU144</model>
+    </airplane>
+
+    <airplane type="AirMilitary">
+        <capacity>111</capacity>
+        <weith>3444</weith>
+        <fuel>2323</fuel>
+        <rang>10000</rang>
+        <model>AN72</model>
+    </airplane>
+
+</air>
